@@ -6,7 +6,7 @@ Install the [Lighthouse local memory CLI](https://lighthouse.ovenplatform.com) o
 brew install paulwritescode/lighthouse/lighthouse
 ```
 
-The formula currently installs Lighthouse v0.8.0. It builds the CLI from the matching tagged release and declares Go as a build dependency. Homebrew installs that build dependency when needed.
+The formula currently installs Lighthouse v0.8.1. It builds the CLI from the matching tagged release and declares Go as a build dependency. Homebrew installs that build dependency when needed.
 
 To upgrade after a new formula is published:
 
